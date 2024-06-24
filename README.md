@@ -3,6 +3,8 @@ Introducing Autonomys — the radical autonomy network for human and artificial 
 
 Autonomys is a decentralized AI (deAI) verticalized stack encompassing distributed storage, distributed compute, and a decentralized application (dApp) suite. The first primitive being built in the Auto Suite is our decentralized identity protocol Autonomys ID (Auto ID). 
 
+<img src="https://github.com/jonhan8352/AutonomysNetwork/blob/main/images/autonomys.jpg">
+
 # Subspace Network Quiz Campaign
 ## 👩‍🚀Subspace Network Quiz Series 01
 1. A
