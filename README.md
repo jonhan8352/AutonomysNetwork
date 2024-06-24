@@ -84,3 +84,57 @@ Autonomys is a decentralized AI (deAI) verticalized stack encompassing distribut
 
 ## 👩‍🚀Subspace Network Crossword series 01
 1. DOORS
+
+# Learn about Subspace!
+## Watch the Subspace Lightning Talk!
+1. Nominator
+
+# Space Missions
+## Lost in Space
+1. Subspace
+
+## Lost in Space 02
+1. SpaceAcres
+
+## Lost in Space 03
+1. Dangerous
+
+## Lost in Space 04
+1. Subspace Reached The Moon
+
+## Lost in Space 05
+1. Love saves the world
+
+## Lost in Space 06
+1. Autonomous
+2. TEAO BARRIER REACTOR SURVIVED HELIUS
+
+## Lost in Space 07
+1. THERE IS A SECRET MESSAGE IN THE CODE
+2. A cloud
+
+## Lost in Space 08
+1. A secret
+2. Never Gonna Give You Up
+
+## Lost in Space 09
+1. Your name
+2. Coca cola
+
+## Lost in Space 10
+1. 1
+2. heart
+
+# 🤖Autonomys Network Quiz and Crossword Campaign
+## 🤖Autonomys Network Quiz Series 01
+1. Autonomys
+2. B
+3. A
+4. Subspace
+
+## 🤖Autonomys Network Crossword series 01
+1. name
+
+
+> [!NOTE]
+> Latest Updates: 24th June 2024
