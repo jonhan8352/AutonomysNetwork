@@ -137,6 +137,12 @@ Autonomys is a decentralized AI (deAI) verticalized stack encompassing distribut
 ## 🤖Autonomys Network Crossword series 01
 1. name
 
+## 🤖Autonomys Network Crossword Series 02
+1. B
+2. Auto
+3. C
+4. stake
+
 
 > [!NOTE]
-> *Latest Updates: 24th June 2024*
+> *Latest Updates: 29th June 2024*
