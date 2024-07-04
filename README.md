@@ -151,4 +151,4 @@ Autonomys is a decentralized AI (deAI) verticalized stack encompassing distribut
 
 
 > [!NOTE]
-> *Latest Updates: 29th June 2024*
+> *Latest Updates: 4th July 2024*
