@@ -127,6 +127,12 @@ Autonomys is a decentralized AI (deAI) verticalized stack encompassing distribut
 1. 1
 2. heart
 
+## Lost in Space 11
+1. a dream
+2. 12
+3. Autonomous
+4. guitar
+
 # 🤖Autonomys Network Quiz and Crossword Campaign
 ## 🤖Autonomys Network Quiz Series 01
 1. Autonomys
