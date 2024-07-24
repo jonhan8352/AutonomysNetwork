@@ -168,4 +168,4 @@ Autonomys is a decentralized AI (deAI) verticalized stack encompassing distribut
 4. Stake Wars 2
 
 > [!NOTE]
-> *Latest Updates: 20th July 2024*
+> *Latest Updates: 24th July 2024*
