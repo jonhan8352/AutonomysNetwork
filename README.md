@@ -133,6 +133,12 @@ Autonomys is a decentralized AI (deAI) verticalized stack encompassing distribut
 3. Autonomous
 4. guitar
 
+## Iron Heart 01
+1. Autonomous Technological Operator
+2. Dry Stones
+3. UFO NEO
+4. 12
+
 # 🤖Autonomys Network Quiz and Crossword Campaign
 ## 🤖Autonomys Network Quiz Series 01
 1. Autonomys
