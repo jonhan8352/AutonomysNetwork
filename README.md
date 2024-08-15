@@ -139,6 +139,12 @@ Autonomys is a decentralized AI (deAI) verticalized stack encompassing distribut
 3. UFO NEO
 4. 12
 
+## Iron Heart 02
+1. Earth
+2. Autonomys
+3. CELEBRATIONS
+4. WHAT
+
 # 🤖Autonomys Network Quiz and Crossword Campaign
 ## 🤖Autonomys Network Quiz Series 01
 1. Autonomys
@@ -180,4 +186,4 @@ Autonomys is a decentralized AI (deAI) verticalized stack encompassing distribut
 1. MAINSTAKE
 
 > [!NOTE]
-> *Latest Updates: 10th August 2024*
+> *Latest Updates: 15th August 2024*
