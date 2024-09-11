@@ -151,6 +151,13 @@ Autonomys is a decentralized AI (deAI) verticalized stack encompassing distribut
 3. LOVE
 4. CAT
 
+## Iron Heart 04
+1. BECAUSE
+2. STARKNET
+3. Pink Fluffy Unicorns Dancing on Rainbows
+4. ARE YOU READY FOR THE ART CONTEST?
+5. The Broken Face
+
 # 🤖Autonomys Network Quiz and Crossword Campaign
 ## 🤖Autonomys Network Quiz Series 01
 1. Autonomys
@@ -210,4 +217,4 @@ Autonomys is a decentralized AI (deAI) verticalized stack encompassing distribut
 1. DIGITAL AI
 
 > [!NOTE]
-> *Latest Updates: 6th September 2024*
+> *Latest Updates: 11th September 2024*
