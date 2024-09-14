@@ -216,5 +216,11 @@ Autonomys is a decentralized AI (deAI) verticalized stack encompassing distribut
 ## 🤖Autonomys Network Monthly Quiz Challenge 03
 1. DIGITAL AI
 
+## 🤖Autonomys Network Quiz Series 07
+1. D
+2. B
+3. Gemini 3
+4. Stake Wars 2
+
 > [!NOTE]
-> *Latest Updates: 11th September 2024*
+> *Latest Updates: 14th September 2024*
