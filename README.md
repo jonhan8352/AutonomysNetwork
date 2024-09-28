@@ -225,5 +225,17 @@ Autonomys is a decentralized AI (deAI) verticalized stack encompassing distribut
 ## 🤖Autonomys Network Crossword series 05
 1. GOOD
 
+## 🤖Autonomys Network Mind the Gap Series 01
+1. Autonomys’
+2. PoAS consensus
+3. bootstrapping
+4. rewards
+5. domain
+6. Phase-2
+7. Auto ID
+8. Phase-3
+9. bandwidth
+10. roadmap
+
 > [!NOTE]
-> *Latest Updates: 21st September 2024*
+> *Latest Updates: 28th September 2024*
